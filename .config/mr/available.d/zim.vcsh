@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/zim.git]
+checkout = VCSH_BASE=$HOME/.zim vcsh clone https://github.com/Eriner/zim.git zim

@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotvim.git]
+checkout = VCSH_BASE=$HOME/.vim vcsh clone git@github.com:mariomarin/dotvim.git dotvim
